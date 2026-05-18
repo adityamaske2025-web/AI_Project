@@ -14,4 +14,4 @@ This repository contains my beginner AI and Computer Vision projects built using
 - Tkinter
 
 ## Author
-Aditya
+Aditya Maske
